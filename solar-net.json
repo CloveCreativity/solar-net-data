@@ -1,0 +1,154 @@
+{
+ "day": "Sat, Nov 7",
+ "dayShort": "NOV 7",
+ "produced": 30.74,
+ "pulled": 42.96,
+ "sent": 27.42,
+ "homeUsed": 46.28,
+ "net": -15.54,
+ "runningTotal": 38.45,
+ "pending": "Sun, Nov 8 \u00b7 produced 28.07 \u00b7 PG&E pending",
+ "updated": "2026-11-09",
+ "totals": {
+  "produced": 277.0,
+  "pulled": 168.83,
+  "sent": 207.28,
+  "homeUsed": 238.55,
+  "net": 38.45,
+  "completeDays": 11
+ },
+ "history": [
+  {
+   "date": "2026-11-08",
+   "label": "Sun, Nov 8, 2026",
+   "short": "Sun, Nov 8",
+   "produced": 28.07,
+   "pulled": null,
+   "sent": null,
+   "homeUsed": null,
+   "net": null,
+   "verdict": "Pending"
+  },
+  {
+   "date": "2026-11-07",
+   "label": "Sat, Nov 7, 2026",
+   "short": "Sat, Nov 7",
+   "produced": 30.74,
+   "pulled": 42.96,
+   "sent": 27.42,
+   "homeUsed": 46.28,
+   "net": -15.54,
+   "verdict": "Negative"
+  },
+  {
+   "date": "2026-11-06",
+   "label": "Fri, Nov 6, 2026",
+   "short": "Fri, Nov 6",
+   "produced": 30.18,
+   "pulled": 35.78,
+   "sent": 5.23,
+   "homeUsed": 60.73,
+   "net": -30.55,
+   "verdict": "Negative"
+  },
+  {
+   "date": "2026-11-05",
+   "label": "Thu, Nov 5, 2026",
+   "short": "Thu, Nov 5",
+   "produced": 31.88,
+   "pulled": 4.93,
+   "sent": 28.19,
+   "homeUsed": 8.62,
+   "net": 23.26,
+   "verdict": "Positive"
+  },
+  {
+   "date": "2026-11-04",
+   "label": "Wed, Nov 4, 2026",
+   "short": "Wed, Nov 4",
+   "produced": 31.48,
+   "pulled": 5.22,
+   "sent": 28.01,
+   "homeUsed": 8.69,
+   "net": 22.79,
+   "verdict": "Positive"
+  },
+  {
+   "date": "2026-11-03",
+   "label": "Tue, Nov 3, 2026",
+   "short": "Tue, Nov 3",
+   "produced": 13.3,
+   "pulled": 20.64,
+   "sent": 10.06,
+   "homeUsed": 23.88,
+   "net": -10.58,
+   "verdict": "Negative"
+  },
+  {
+   "date": "2026-11-02",
+   "label": "Mon, Nov 2, 2026",
+   "short": "Mon, Nov 2",
+   "produced": 15.06,
+   "pulled": 4.9,
+   "sent": 11.68,
+   "homeUsed": 8.28,
+   "net": 6.78,
+   "verdict": "Positive"
+  },
+  {
+   "date": "2026-11-01",
+   "label": "Sun, Nov 1, 2026",
+   "short": "Sun, Nov 1",
+   "produced": 30.42,
+   "pulled": 14.09,
+   "sent": 27.75,
+   "homeUsed": 16.76,
+   "net": 13.66,
+   "verdict": "Positive"
+  },
+  {
+   "date": "2026-10-31",
+   "label": "Sat, Oct 31, 2026",
+   "short": "Sat, Oct 31",
+   "produced": 29.92,
+   "pulled": 20.59,
+   "sent": 14.97,
+   "homeUsed": 35.54,
+   "net": -5.62,
+   "verdict": "Negative"
+  },
+  {
+   "date": "2026-10-30",
+   "label": "Fri, Oct 30, 2026",
+   "short": "Fri, Oct 30",
+   "produced": 25.31,
+   "pulled": 8.26,
+   "sent": 17.91,
+   "homeUsed": 15.66,
+   "net": 9.65,
+   "verdict": "Positive"
+  },
+  {
+   "date": "2026-10-29",
+   "label": "Thu, Oct 29, 2026",
+   "short": "Thu, Oct 29",
+   "produced": 22.63,
+   "pulled": 0.0,
+   "sent": 22.06,
+   "homeUsed": 0.57,
+   "net": 22.06,
+   "verdict": "Positive"
+  },
+  {
+   "date": "2026-10-28",
+   "label": "Wed, Oct 28, 2026",
+   "short": "Wed, Oct 28",
+   "produced": 16.08,
+   "pulled": 11.46,
+   "sent": 14.0,
+   "homeUsed": 13.54,
+   "net": 2.54,
+   "verdict": "Positive"
+  }
+ ]
+}
