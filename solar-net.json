@@ -1,21 +1,21 @@
 {
- "day": "Sat, Nov 14",
- "dayShort": "NOV 14",
- "produced": 24.63,
- "pulled": 25.67,
- "sent": 10.18,
- "homeUsed": 40.12,
- "net": -15.49,
- "runningTotal": 33.03,
- "pending": "Sun, Nov 15 \u00b7 produced 6.14 \u00b7 PG&E pending",
- "updated": "2026-11-16",
+ "day": "Sun, Nov 15",
+ "dayShort": "NOV 15",
+ "produced": 6.14,
+ "pulled": 45.72,
+ "sent": 1.88,
+ "homeUsed": 49.98,
+ "net": -43.84,
+ "runningTotal": -10.81,
+ "pending": "",
+ "updated": "2026-11-17",
  "totals": {
-  "produced": 452.56,
-  "pulled": 307.32,
-  "sent": 340.35,
-  "homeUsed": 419.53,
-  "net": 33.03,
-  "completeDays": 18
+  "produced": 458.7,
+  "pulled": 353.04,
+  "sent": 342.23,
+  "homeUsed": 469.51,
+  "net": -10.81,
+  "completeDays": 19
  },
  "history": [
   {
@@ -23,11 +23,11 @@
    "label": "Sun, Nov 15, 2026",
    "short": "Sun, Nov 15",
    "produced": 6.14,
-   "pulled": null,
-   "sent": null,
-   "homeUsed": null,
-   "net": null,
-   "verdict": "Pending"
+   "pulled": 45.72,
+   "sent": 1.88,
+   "homeUsed": 49.98,
+   "net": -43.84,
+   "verdict": "Negative"
   },
   {
    "date": "2026-11-14",
